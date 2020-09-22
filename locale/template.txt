@@ -1,0 +1,34 @@
+# textdomain: anchorstone
+
+
+
+### init.lua ###
+
+# The space at the beginning of this line is signifigant, it gets spliced onto the description of the anchorstone trigger when wear is enabled.
+ This tool can be used @1 times before breaking.=
+
+A much weaker form of the anchorstone trigger, this tool is able to determine the strength and direction of a displaced anchorstone's bond.=
+
+A strange mineral that has become mystically bonded to the location in space that it has rested in for so long.=
+
+A triggering device that allows teleportation via displaced anchorstone.=
+
+Anchorstone Reader=
+Anchorstone Trigger=
+Anchorstone from @1=
+Anchorstone origin: @1, @2m away=
+
+Anchorstone that bonded to one location but that has been relocated somewhere else.=
+
+Displaced Anchorstone=
+
+Displaced anchorstone would really rather be back in its original location. The bond isn't strong enough to drag it there spontaneously, but the residual spatial tension can be used to teleport other objects there with the right tools.=
+
+Native Anchorstone=
+
+Simply apply this tool to a piece of displaced anchorstone and it will tell you the location it originated from.=
+
+When applied to a piece of displaced anchorstone this tool becomes entangled in the connection it has to its original location and is magically dragged there (along with whatever's holding on to it).=
+
+When dug out and relocated native anchorstone becomes "displaced" anchorstone. It retains an affinity for the location it was bonded to that can be exploited to teleport objects there, with the right tools.=
+

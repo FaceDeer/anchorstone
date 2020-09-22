@@ -1,0 +1,3 @@
+anchorstone_trigger_uses (Anchorstone trigger uses, 0 for infinite) int 0 0 100000
+anchorstone_resettable (Anchorstone can be reset) bool true
+anchorstone_ore (Anchorstone appears naturally in default stone) bool true
