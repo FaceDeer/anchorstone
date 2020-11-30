@@ -360,10 +360,10 @@ if anchorstone_ore then
 		-- If the desired average distance between ores is 'd', set this to
 		-- d * d * d.
 
-		clust_num_ores = 6,
-		clust_size = 3,
+		clust_num_ores = 3,
+		clust_size = 2,
 
 		y_min = -31000,
-		y_max = 64,
+		y_max = 31000,
 	})
 end
